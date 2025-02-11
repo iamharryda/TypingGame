@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=iamharryda_TypingGame&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=iamharryda_TypingGame)
+
 Typing Game
 
 - Uses random quotable.io api
